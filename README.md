@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src="https://komarev.com/ghpvc/?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical&style=for-the-badge&color=blue" alt="views" />
+   <img src="https://komarev.com/ghpvc/?username=ahmedtoba74&show_icons=true&locale=en&layout=compact&theme=radical&style=for-the-badge&color=blue" alt="views" />
    Hi I'm <em>Ahmed Toba</em>! 
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
@@ -42,9 +42,9 @@
 ![MPLAB_X_IDE](https://img.shields.io/badge/MPLAB_X_IDE-1E424C?style=for-the-badge&logoColor=white)&nbsp;
 ![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtoba74&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohamedGalal-2&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmedtoba74&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
 
 <br>
 

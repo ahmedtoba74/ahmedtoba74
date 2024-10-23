@@ -11,9 +11,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Embedded+Systems+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 Communications and Electronics Engineer Specially at Embedded Systems.
+- 🏢 Communications and Electronics Engineer Specially at Software development.
 - 👨‍💻 As a an Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
-- 🤖 Currently learning Software development especially backend deveopment using node js .
+- 🤖 Currently, I’m focused on backend development using Node.js and have a working knowledge of HTML and CSS. I’m eager to contribute to impactful projects and continue developing large-scale software systems .
 
 
 ## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me

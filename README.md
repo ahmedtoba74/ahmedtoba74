@@ -1,6 +1,6 @@
 <h1 align="center">
    <img src="https://komarev.com/ghpvc/?username=ahmedtoba74&show_icons=true&locale=en&layout=compact&theme=radical&style=for-the-badge&color=blue" alt="views" />
-   
+   Hi I'm <em>Ahmed Toba</em>! 
    <img width="28" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif">
 </h1>
 

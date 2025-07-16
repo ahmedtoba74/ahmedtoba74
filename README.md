@@ -6,54 +6,93 @@
 
 <img width="250" align="right" src="https://media.tenor.com/uYP_Nkq8VPsAAAAd/coding-hello-world.gif">
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=Software+Development+Enthusiasm;%22Every+moment+is+a+fresh+beginning%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=MERN+%2F+MEAN+Stack+Software+Engineer;Solid+Foundations+%7C+Real+Problem+Solver" alt="Typing SVG" /></a>
 </p> 
 
-- 🏢 Communications and Electronics Engineer, with a passion for Software Development.
-- 👨‍💻 Currently focused on Backend Development with Node.js and exploring full-stack technologies like HTML, CSS, and MongoDB.
-- 🤖 Eager to contribute to impactful projects and continuously improve skills in large-scale software systems.
+## 👨‍💻 About Me
 
-## <img src="https://media.giphy.com/media/gIkM6hiJfvSIIJCnKy/giphy.gif" width="5%"> Contact me
+- I'm a **Software Engineer** with a strong foundation in **MERN** and **MEAN** stacks.
+- I'm on a mission to become a true software engineer — one who solves real problems, builds scalable systems, and understands the "why" behind every line of code.
+- I believe that solid foundations in computer science principles, clean architecture, and best practices are what truly make a great engineer — not just mastering tools.
+- Currently working on full-stack projects and continuously improving through hands-on experience.
+
+---
+
+## 📬 Contact Me
 
 <a href="mailto:ahmdtwbt22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ahmed-toba-135287239?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUwYgyzpzQmuNmpu1HH7wtg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ahmed-toba-135287239" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/abutoba74" target="_blank"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://x.com/Abutoba74" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100027132073105" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/profile/ahmdtwbt22" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="2.3%"> Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Assembly](https://img.shields.io/badge/Assembly-white?style=for-the-badge&color=44A833)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)&nbsp;
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
-![MPLAB_X_IDE](https://img.shields.io/badge/MPLAB_X_IDE-1E424C?style=for-the-badge&logoColor=white)&nbsp;
-![Proteus](https://img.shields.io/badge/Proteus-37414D?style=for-the-badge&logo=proteus&logoColor=white)&nbsp;
+## 🧰 Tech Stack
+
+### 🧱 Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge&logoColor=white)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular CLI](https://img.shields.io/badge/Angular_CLI-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### ⚙️ Tools & DevOps
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
+
+### 🧪 Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/Supertest-333?style=for-the-badge&logoColor=white)
+
+### ⚙️ Systems
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ☁️ Optional
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
 ## 🏆 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedtoba74&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ahmedtoba74&show_icons=true&locale=en&layout=compact&theme=radical" alt="GitHub Status" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedtoba74&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
-## 🚀 Projects
-Feel free to explore some of my featured projects!  
+---
+
+## 🌟 Looking to Collaborate On
+- Open source Node.js or Angular projects
+- Real-world backend systems
+- Developer communities and tech events
+
+---
+
+## 🚀 Featured Projects
 
 ### **[Node Farm](https://github.com/ahmedtoba74/Node-Farm)**
-- **Description**: This is a dynamic product overview site for a farm, built using Node.js, Express, and MongoDB. Users can browse farm products, access detailed information, and interact with the website through a clean, server-rendered interface.
+- **Description**: A server-rendered Node.js project that displays farm products dynamically.
 - **Tech Stack**: JavaScript, Node.js, Express, MongoDB, HTML, CSS
-- **Repository**: [GitHub Link](https://github.com/ahmedtoba74/Node-Farm)
+
+### **[NTI MEAN Stack Training Tasks](https://github.com/ahmedtoba74/NTI_MEANSTACK_TASKS)**
+- **Description**: Collection of hands-on tasks built during the NTI MEAN Stack summer training program.
+- **Tech Stack**: Angular, Node.js, Express, MongoDB, REST APIs

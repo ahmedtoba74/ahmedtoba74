@@ -11,6 +11,12 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&width=435&lines=MERN+%2F+MEAN+Stack+Software+Engineer;Solid+Foundations+%7C+Real+Problem+Solver" alt="Typing SVG" /></a>
 </p> 
 
+<p align="center">
+  <a href="./assets/Ahmed-Toba-Backend-CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20My%20CV-blue?style=for-the-badge&logo=github" alt="Download My CV" />
+  </a>
+</p>
+
 ## 👨‍💻 About Me
 
 - I'm a **Software Engineer** with a strong foundation in **MERN** and **MEAN** stacks.

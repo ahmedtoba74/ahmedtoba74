@@ -95,10 +95,6 @@
 
 ## 🚀 Featured Projects
 
-### **[Node Farm](https://github.com/ahmedtoba74/Node-Farm)**
-- **Description**: A server-rendered Node.js project that displays farm products dynamically.
-- **Tech Stack**: JavaScript, Node.js, Express, MongoDB, HTML, CSS
-
 ### **[E-Commerce Website](https://github.com/ahmedtoba74/E-Commerce-App)**  
 - **Description**: A full-stack e-commerce application with user authentication, product management, cart, and order handling for both customers and admins.  
 - **Tech Stack**: Angular, Bootstrap, Node.js, Express, MongoDB, JWT
@@ -106,3 +102,7 @@
 ### **[NTI MEAN Stack Training Tasks](https://github.com/ahmedtoba74/NTI_MEANSTACK_TASKS)**
 - **Description**: Collection of hands-on tasks built during the NTI MEAN Stack summer training program.
 - **Tech Stack**: Angular, Node.js, Express, MongoDB, REST APIs
+
+### **[Node Farm](https://github.com/ahmedtoba74/Node-Farm)**
+- **Description**: A server-rendered Node.js project that displays farm products dynamically.
+- **Tech Stack**: JavaScript, Node.js, Express, MongoDB, HTML, CSS

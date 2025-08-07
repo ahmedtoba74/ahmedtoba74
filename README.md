@@ -105,4 +105,4 @@
 
 ### **[Node Farm](https://github.com/ahmedtoba74/Node-Farm)**
 - **Description**: A server-rendered Node.js project that displays farm products dynamically.
-- **Tech Stack**: JavaScript, Node.js, Express, MongoDB, HTML, CSS
+- **Tech Stack**: JavaScript, Node.js, HTML, CSS

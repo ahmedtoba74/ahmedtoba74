@@ -118,7 +118,7 @@ Engineered a full-stack tour booking application featuring a secure RESTful API 
 [![Status](https://img.shields.io/badge/Status-Completed-success.svg)](https://github.com/ahmedtoba74/Ecommerce-Project)
 [![View Code](https://img.shields.io/badge/View_Code-GitHub-181717.svg?logo=github)](https://github.com/ahmedtoba74/Ecommerce-Project)
 <a href="https://github.com/ahmedtoba74/Ecommerce-Project">
-  <img src="https://via.placeholder.com/1200x600.png?text=Upload+E-Commerce+Screenshot" alt="E-Commerce Platform" width="600"/>
+  <img src="https://raw.githubusercontent.com/ahmedtoba74/Ecommerce-Project/main/ecommerce-frontend/public/EcommerceWebsite.jpg" alt="E-Commerce Platform" width="600"/>
 </a>
 
 Developed a complete MEAN-stack e-commerce application with distinct, feature-rich portals for both customers and administrators.

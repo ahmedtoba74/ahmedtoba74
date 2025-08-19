@@ -25,15 +25,28 @@
 
 </div>
 
+
 ---
+
 
 ## 🚀 My Engineering Philosophy
-As a software engineer, I build with purpose and precision. My approach is rooted in three core principles:
--   **Architect for Scalability:** I design systems that are modular and ready for growth, ensuring long-term maintainability.
--   **Write Clean & Testable Code:** I believe that code is read more often than it is written. My focus is on clarity, efficiency, and robustness.
--   **Solve the Right Problem:** I dive deep to understand the "why" behind the "what," ensuring my technical solutions deliver real business value.
+
+My work is guided by a simple yet powerful philosophy rooted in three core principles. This is how I build software that matters.
+
+> ### 🏗️ I Architect for the Future
+> 
+> My systems are built to last. I prioritize modular, maintainable, and scalable designs that are ready for growth from day one, ensuring long-term value and adaptability.
+
+> ### 🎨 I Write Clean, Intentional Code
+> 
+> I believe code is communication. I focus on clarity, efficiency, and robustness to create a codebase that is not only powerful and testable but also a pleasure for other developers to read and evolve.
+
+> ### 🎯 I Solve Business Problems with Technology
+> 
+> Technology is a tool to create value. I dive deep to understand the core "why" behind every project, ensuring that every technical decision and line of code serves a clear and impactful business purpose.
 
 ---
+
 
 ## 🎯 Core Competencies
 
@@ -132,12 +145,23 @@ Developed a complete MEAN-stack e-commerce application with distinct, feature-ri
 
 ---
 
-## 🌱 My Learning & Growth
+## 🌱 My Learning & Growth Roadmap 🚀
 
-I am a firm believer in lifelong learning. My current focus is on deepening my expertise in:
--   **System Design & Advanced Architectures** (Microservices, Domain-Driven Design)
--   **Containerization & Orchestration** with Docker and Kubernetes.
--   **Implementing CI/CD Pipelines** for automated testing and deployment.
+I am a firm believer in lifelong learning and continuous improvement. My goal is to evolve from a developer into a true software architect.
+
+### <img src="https://media.giphy.com/media/QvQcl4P19Qf4xCLh41/giphy.gif" width="30" align="left" style="margin-right: 10px;"> Actively Learning Now (Advanced Node.js Concepts):
+-   <g-emoji class="g-emoji" alias="graphql" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-200d-1f4bb.png">🧑‍💻</g-emoji> **GraphQL:** Building flexible, efficient, and strongly-typed APIs as an alternative to REST.
+-   <g-emoji class="g-emoji" alias="keyboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2328.png">⌨️</g-emoji> **TypeScript (Advanced Backend):** Applying strong typing and advanced patterns for building enterprise-grade Node.js applications.
+-   <g-emoji class="g-emoji" alias="test_tube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png">🧪</g-emoji> **In-Depth Testing:** Mastering unit and integration testing strategies to ensure code quality and reliability.
+-   <g-emoji class="g-emoji" alias="electric_plug" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png">🔌</g-emoji> **WebSockets:** Implementing real-time, bi-directional communication for interactive applications.
+-   <g-emoji class="g-emoji" alias="performance" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> **Performance Optimization:** Advanced techniques for caching, scaling, and optimizing Node.js performance.
+
+<br>
+
+### <img src="https://media.giphy.com/media/WjGqND0om8eww/giphy.gif" width="30" align="left" style="margin-right: 10px;"> Long-Term Goals & Interests:
+-   <g-emoji class="g-emoji" alias="building_blocks" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f1.png">🧱</g-emoji> **System Design & Advanced Architectures** (Microservices, Domain-Driven Design).
+-   <g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">🐳</g-emoji> **Containerization & Orchestration** with Docker and Kubernetes at a production scale.
+-   <g-emoji class="g-emoji" alias="pipeline" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6dd.png">🗽️</g-emoji> **Implementing CI/CD Pipelines** for fully automated testing and deployment workflows.
 
 ---
 

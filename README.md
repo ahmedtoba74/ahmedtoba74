@@ -18,7 +18,7 @@
   <a href="https://github.com/ahmedtoba74" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="./assets/Ahmed-Toba-Backend-CV.pdf" target="_blank">
+  <a href="./assets/Ahmed_Toba_Backend_CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-My%20CV-009688?style=for-the-badge&logo=github&logoColor=white" alt="Download My CV" />
   </a>
 </div>

@@ -85,6 +85,7 @@ My work is guided by a simple yet powerful philosophy rooted in three core princ
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-DC3545?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![API Security](https://img.shields.io/badge/API_Security-FF4B4B?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
@@ -180,10 +181,26 @@ Developed a role-based full-stack e-commerce platform with distinct product, car
 
 ---
 
+### **GraphQL Blog API | Production-Hardened GraphQL API**
+[![Status](https://img.shields.io/badge/Status-Completed-success.svg)](https://github.com/ahmedtoba74/Max_Nodejs_Course_GraphQL)
+[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717.svg?logo=github)](https://github.com/ahmedtoba74/Max_Nodejs_Course_GraphQL)
+
+Architected a GraphQL API using a modular, service-layered design with 10+ production security layers.
+
+**Key Features:**
+-   **Modular Architecture:** Separated resolvers, services, models, and validation logic for maintainability.
+-   **Automated Testing:** Built a comprehensive test suite (13+ files) covering unit, integration, and E2E testing.
+-   **Isolated Test Environment:** Configured an isolated test database with automated teardown hooks.
+
+**Tech Stack:** `Node.js`, `GraphQL`, `MongoDB`, `Mocha`, `Chai`, `Sinon`, `Supertest`
+
+---
+
 ## 🎖️ Leadership & Volunteering
 
 - **Maymay Start-up:** Co-Founder & Business Developer (Jan 2025 – Jan 2026) — Co-led business strategy and product development to support startup growth.
-- **Rally BSU:** HR Manager & Marketing Vice (Feb 2025 – Aug 2026) — Directed marketing initiatives, recruitment, team development, and conflict resolution.
+- **Rally BSU — HR Manager** (Aug 2025 – Aug 2026) — Led recruitment, team development, conflict resolution, and HR operations.
+- **Rally BSU — Marketing Vice** (Feb 2025 – Aug 2025) — Directed marketing initiatives, campaign planning, and cross-functional team coordination.
 - **GDSC EELU:** Head of HR (Feb 2024 – Aug 2024) — Managed onboarding, mentoring, and student progress for Google Developer Student Clubs.
 
 ---
@@ -193,7 +210,7 @@ Developed a role-based full-stack e-commerce platform with distinct product, car
 I am a firm believer in lifelong learning and continuous improvement. My goal is to evolve from a developer into a true software architect.
 
 ### <img src="https://media.giphy.com/media/QvQcl4P19Qf4xCLh41/giphy.gif" width="30" align="left" style="margin-right: 10px;"> Actively Learning Now:
--   <g-emoji class="g-emoji" alias="graphql" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-200d-1f4bb.png">🧑‍💻</g-emoji> **GraphQL:** Building flexible, efficient, and strongly-typed APIs as a modern alternative to REST.
+-   <g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">🐳</g-emoji> **Docker & AWS:** Building hands-on containerization and cloud deployment skills to round out full-stack DevOps capability.
 -   <g-emoji class="g-emoji" alias="test_tube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ea.png">🧪</g-emoji> **Advanced Testing:** Mastering deep unit and integration testing strategies for enterprise-level applications.
 -   <g-emoji class="g-emoji" alias="performance" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> **Performance Optimization:** Exploring advanced caching mechanisms (Redis) and Node.js performance tuning.
 
